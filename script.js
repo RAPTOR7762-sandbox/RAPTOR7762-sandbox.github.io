@@ -5,7 +5,7 @@ document.getElementById("instruction-button").onclick = () => {
 
   if (element.style.display === "block") {
     element.style.display = "none";
-    button.innerHTML = "?v=dQw4" //pt 4/5 of th3 fl@g find under /script.js
+    //button.innerHTML = "?v=dQw4" //pt 4/5 of th3 fl@g find under /script.js
 
   } else {
     element.style.display = "block";
